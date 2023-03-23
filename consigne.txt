@@ -1,0 +1,15 @@
+Le projet du jour:
+
+l'equivalent du systeme de combat pokemon
+
+les pokemon ont 4 attaques: charge, soin, ecume, finuish-him
+
+charge :  1 chance sur deux de touché, enleve 10pv, 1 chance sur 2 de touché 
+soin :  rend 20 pv, 1 chance sur 3 de touché 
+ecume : enleve 20 pv, une chance sur trois
+finish him : tue l'adversaire, une chance sur 5 de touché
+
+Le joueur choisis l'attaque avec un prompt console 0,1,2,3
+le joueur est averti si l'attaque a reussis ou echoué.
+A chaque tour, les pv du joueur et de l'adversaire s'affiche
+Si l'un des joueur tombe a zero pv la partie est fini / 50 pv par joueur
